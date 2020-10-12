@@ -5,6 +5,11 @@
 - Website: [https://www.rutap.tech](https://www.rutap.tech)
 - Starup: [EndorseU](http://www.endorseu.com)
 
+#### Name: [Ritika Rastogi](https://github.com/Ritz2626)
+- Place: Prayagraj,India
+- Bio: I am a undergraduate student.
+- GitHub: [Ritika Rastogi](https://github.com/Ritz2626)
+
 #### Name: [Egi Nugraha](https://github.com/eginugraha)
 - Place: Bandung, Jawa Barat, Indonesia
 - Bio: I Love Code and Design. 
